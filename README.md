@@ -13,7 +13,7 @@ Build
 
 Run 
 
-    docker run -d -h puppetagent.local --name puppetagent ahmet2mir/puppetsagent
+    docker run -d -h puppetagent.local --name puppetagent ahmet2mir/puppetagent
 
 Enter in the container , check https://github.com/jpetazzo/nsenter
 
